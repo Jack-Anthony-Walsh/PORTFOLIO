@@ -24,12 +24,19 @@
     padding-right: 100px;
 }
 .total-footer {
+    padding-top: 50px;
+    padding-bottom: 25px;
 }
 .footer-text-1 {
     color: #8C8C8C;
     font-weight: bold;
     font-family: "Gotham Thin";
 }
+.zine-bottom {
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
 
 
 
@@ -55,6 +62,7 @@
     padding-left: 50px;
     padding-right: 50px;
     background-color: #FFFFFF;
+    margin-bottom: 0px;
 }
 .zine-header {
     color: #8C8C8C;
@@ -82,7 +90,15 @@
     padding-right: 50px;
 }
 
-
+.publication-titles {
+    color: #8C8C8C;
+    font-weight: bold;
+    font-family: "Gotham Thin";
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    text-decoration: none;
+}
 
 .index-footer {
     width: 1440px;
